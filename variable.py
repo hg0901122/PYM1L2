@@ -6,4 +6,3 @@ promt1=input ("enter name")
 print (promt1)
 x1 = "hello"
 x_1 = "Hello,"
-if = "can"
