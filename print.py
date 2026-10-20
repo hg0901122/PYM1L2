@@ -1,0 +1,6 @@
+print ("hello world")
+print (4)
+print ("Hello","world")
+print ("hello world\n")
+print ("hello world",end="q")
+print ("hello")
